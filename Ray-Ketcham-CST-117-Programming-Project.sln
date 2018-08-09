@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ray-Ketcham-CST-117-Programming-Project", "Ray-Ketcham-CST-117-Programming-Project\Ray-Ketcham-CST-117-Programming-Project.csproj", "{5C41EEF4-BA10-4B1E-8BBA-60473C8DAC1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C41EEF4-BA10-4B1E-8BBA-60473C8DAC1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C41EEF4-BA10-4B1E-8BBA-60473C8DAC1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C41EEF4-BA10-4B1E-8BBA-60473C8DAC1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C41EEF4-BA10-4B1E-8BBA-60473C8DAC1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {450B9154-1268-4A86-BC70-E62658A1C096}
+	EndGlobalSection
+EndGlobal
